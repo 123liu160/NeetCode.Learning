@@ -1,3 +1,6 @@
+# 给你一棵二叉搜索树（BST），所有节点值都不重复。
+# 给你两个节点 p 和 q。
+# 请你找到它们的最近公共祖先（LCA）。
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
         self.val = val
